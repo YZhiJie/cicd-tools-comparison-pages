@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CI/CD 工具对比与 GitHub Actions 实战">
+  <rect width="64" height="64" rx="14" fill="#2ea44f" />
+  <!-- 循环箭头：流水线的最简符号，16px 下仍可辨识 -->
+  <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 26a15 15 0 1 0 2 10" />
+    <path d="M46 16v10h-10" />
+  </g>
+</svg>
